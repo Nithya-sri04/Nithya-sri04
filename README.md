@@ -1,14 +1,14 @@
 # Nithyasri-04
-<h1 align="center">Hi 👋, I'm Nithyasri-04</h1>
-<h3 align="center">A passionate programming learner and coder</h3>
-<img align="left" alt="Coding" width="400" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJcwML5opqW7e1oFBv_FlIsO2Fr13XYEPsY2JzmljARd_BKN3DIzcGtxFhpQnziAZwZNY&usqp=CAU">
+<h1 align="left">Hi 👋, I'm Nithyasri-04</h1>
+<h3 align="left">A passionate learner and problem solver</h3>
 
-
-- 🌱 I’m currently learning **Data structures and algorithms ,Nodejs and Reactjs**
+- 🌱 I’m currently learning **Data structures and algorithms and MERN stack**
 
 - ⚡ Fun fact **I am funny**
 
-<h3 align="left">Connect with me:</h3>
+- 🫶🏼 **I am interested in Data analytics and Artificial intelligence.**
+
+<h4 align="left">Connect with me: nithyasrisivakumar30@gmail.com</h4>
 <p align="left">
 </p>
 
